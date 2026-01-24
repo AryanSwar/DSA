@@ -1,0 +1,15 @@
+package loopsFlowControl5;
+import java.util.Scanner;
+public class PrintNumFrom1toN3 {
+	public static void main(String[] args) {
+		//Ques : Print number from 1 to N.
+		Scanner sc = new Scanner(System.in);
+		System.out.print("Enter the number : ");
+		int n = sc.nextInt();
+		int i = 1;
+		while(i <= n) {
+			System.out.println(i);
+			i++;
+		}
+	}
+}
