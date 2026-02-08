@@ -71,3 +71,20 @@ All solutions are organized folder-wise and pushed regularly to GitHub.
 - Array manipulation techniques
 - Optimized solutions
   
+---
+
+## 📁 Folder Structure
+
+DSA IN JAVA
+│
+├── Basic
+├── Flowchart1
+├── VariableAndDatatypes2
+├── Operator3
+├── ConditionalStatement4
+├── LoopsFlowControl5
+├── Part-1Pattern6
+├── FunctionAndMethods7
+├── Part-2AdvancePattern8
+├── Part-1Arrays9
+└── Part-2Arrays10
